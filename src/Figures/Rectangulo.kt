@@ -6,7 +6,7 @@ class Rectangulo (
     var Altura:Double = 0.0) : Figure{
 
     override fun perimeter() : String {
-        return (2*Base + 2 * Altura)
+        return (2*Base + 2*Altura)
     }
 
     override fun surface() : String {
