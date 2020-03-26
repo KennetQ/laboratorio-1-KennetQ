@@ -10,7 +10,7 @@ class Cuadrado (
     }
 
     override fun surface() : Double {
-        return Lado1*Lado2
+        return Lado1 * Lado2
     }
 
 }
