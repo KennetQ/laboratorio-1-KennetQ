@@ -6,7 +6,7 @@ class Cuadrado (
     var Lado2:Double = 0.0) : Figure {
 
     override fun perimeter() : Double {
-        return 4*lado1
+        return 4 * lado1
     }
 
     override fun surface() : Double {
